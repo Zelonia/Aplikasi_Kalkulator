@@ -1,0 +1,36 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.btn{
+    width: 9em;
+    height: 9em;
+    margin: 0.1em;
+    border: none;
+    cursor: pointer;
+}
+
+
+.btn1{
+    width: 9em;
+}
+
+#viewer{
+width: 35em;
+height: 4em;
+margin: 0.3em;
+padding: 0.1em 0.8em;
+}
+
+#main{
+    background-color: rgb(28, 121, 121);
+    height: 100%;
+}
+
+form{
+    padding: 20px;
+}
+
